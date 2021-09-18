@@ -4,10 +4,14 @@
 <img width="1435" alt="Screenshot 2021-08-30 at 22 15 14" src="https://user-images.githubusercontent.com/81574700/131375027-8543e9b6-fb08-48a4-9be6-3228effdfb7e.png">
 
 <br/>
-<img width="1385" alt="Screenshot 2021-08-30 at 22 15 57" src="https://user-images.githubusercontent.com/81574700/131375037-35831a16-3a38-403d-9ad7-de293d86699e.png">
+<img width="1425" alt="Screenshot 2021-09-18 at 11 12 34" src="https://user-images.githubusercontent.com/81574700/133877526-faa6052a-85ab-42fa-8a38-defb64a3f993.png">
+
 
 <br/>
-<img width="1432" alt="Screenshot 2021-08-30 at 22 14 21" src="https://user-images.githubusercontent.com/81574700/131375044-e5a19cd6-97a4-4f8f-bad7-aa76c7b430b9.png">
+<img width="1440" alt="Screenshot 2021-09-18 at 11 13 13" src="https://user-images.githubusercontent.com/81574700/133877529-6a412f3c-c405-4f74-b640-2fbbf2ad2580.png">
+
+<br/>
+<img width="1440" alt="Screenshot 2021-09-18 at 11 13 45" src="https://user-images.githubusercontent.com/81574700/133877533-5f7701b6-5a39-44b9-92d2-bf6e4244727e.png">
 
 <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
